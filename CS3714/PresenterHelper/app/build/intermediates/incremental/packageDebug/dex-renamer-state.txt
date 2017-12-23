@@ -1,0 +1,7 @@
+#Tue Oct 03 17:54:51 EDT 2017
+base.0=/Users/omar/Desktop/Work/APPDEV/PresenterHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b59460732158e814f49f6752bdc3f06fe8398de
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/omar/Desktop/Work/APPDEV/PresenterHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fec7e7d073777fdd4034f1804e6daba2d8ab1f55/classes.dex
+base.1=/Users/omar/Desktop/Work/APPDEV/PresenterHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fec7e7d073777fdd4034f1804e6daba2d8ab1f55
+file.0=/Users/omar/Desktop/Work/APPDEV/PresenterHelper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5b59460732158e814f49f6752bdc3f06fe8398de/classes.dex
